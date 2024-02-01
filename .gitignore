@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+*.docx
+
+Link.csv
+Node.csv
+project/output/
